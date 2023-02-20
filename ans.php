@@ -8,7 +8,7 @@ function sortStringsByLength($arr) {
   });
   return $arr;
 }
-$myArr = array("apple", "banana", "orange", "grapefruit");
+$myArr = array("apple", "banana", "orange", "JackFruit");
 $sortedArr = sortStringsByLength($myArr);
  print_r($sortedArr);
 
